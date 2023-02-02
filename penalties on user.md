@@ -4,7 +4,7 @@
 
 ## Fichier admin.php
 
-###### 1- Ajouter les constantes à l'interieur de  `/*TODO:: WORK ON ALERT USER*/`
+###### 1- Ajouter les constantes à l'interieur de  `/* TODO:: WORK ON ALERT USER*/`
 
 ![constantes-img.png](images/constantes-img.png)
 
